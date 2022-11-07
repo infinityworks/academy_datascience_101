@@ -4,3 +4,11 @@ This is a very gentle example to show how a model is trained in SKlearn. If you 
 If you want to use this for a lesson I'd suggest you load it into [Colab](https://colab.research.google.com/) as a Git Repo, you can do what you want with it then. 
 
 Final note, if you are changing this notebook and pushing it then please clear code-chunk outputs so the participants have to run it!
+
+
+
+# Note
+* Ask for breakout rooms!
+
+# TODO
+* Perhaps some more context and interactivity nudges in the deck
